@@ -1,1 +1,2 @@
-# Rest-API-Technosoft
+# darksky-api-test
+Workshop Demo Test
